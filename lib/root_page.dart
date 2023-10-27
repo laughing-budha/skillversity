@@ -1,6 +1,7 @@
+import 'package:abibas/screens/profile_screen.dart';
+import 'package:abibas/screens/feed_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:new_one/screens/explore_screen.dart';
-import 'package:new_one/screens/profile_screen.dart';
+
 import 'screens/home_screen.dart';
 
 class RootApp extends StatefulWidget {
