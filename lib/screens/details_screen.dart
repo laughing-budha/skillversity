@@ -58,7 +58,7 @@ class DetailsScreen extends StatelessWidget {
                     SizedBox(
                       width: size.width * .6, // it just take 60% of total width
                       child: const Text(
-                        "A series of sessions on the psychology of trading, that will guide you, mend your thoughts and prepare you psychologically to become a novice trader.",
+                        "A comprehensive overview of the legal frameworks, processes, and strategies involved in securing and safeguarding patents and trademarks.",
                       ),
                     ),
                     SizedBox(
@@ -70,27 +70,30 @@ class DetailsScreen extends StatelessWidget {
                       runSpacing: 20,
                       children: <Widget>[
                         SeassionCard(
-                          seassionName: "Finance 101",
+                          seassionName:
+                              "Patents & Trademarks: Basics and Types",
                           isDone: true,
                         ),
                         SeassionCard(
-                          seassionName: "Finance 101",
+                          seassionName: "Patent Enforcement and Defense",
                           isDone: false,
                         ),
                         SeassionCard(
-                          seassionName: "Economics",
+                          seassionName: "Trademark Protection and Enforcement",
                           isDone: false,
                         ),
                         SeassionCard(
-                          seassionName: "Blockchain",
+                          seassionName:
+                              "Comparative Analysis: Patents vs. Trademarks",
                           isDone: false,
                         ),
                         SeassionCard(
-                          seassionName: "Crypto",
+                          seassionName: "Case Studies and Practical Exercises",
                           isDone: false,
                         ),
                         SeassionCard(
-                          seassionName: "NFTs",
+                          seassionName:
+                              "International Perspectives on Patents and Trademarks",
                           isDone: false,
                         ),
                       ],

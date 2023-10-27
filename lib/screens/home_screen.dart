@@ -80,11 +80,11 @@ class HomeScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 CategoryCard(
-                  title: "Financial Literacy",
+                  title: "Patents and Trademarks",
                   svgSrc: "assets/icons/finance.svg",
                 ),
                 CategoryCard(
-                  title: "Communication",
+                  title: "Digital Rights Management (DRM)",
                   svgSrc: "assets/icons/comm.svg",
                 ),
               ],
@@ -93,11 +93,11 @@ class HomeScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 CategoryCard(
-                  title: "Mental Health",
+                  title: "Licensing and Technology Transfer",
                   svgSrc: "assets/icons/ment.svg",
                 ),
                 CategoryCard(
-                  title: "Sex and relationships",
+                  title: "Intellectual Property Law",
                   svgSrc: "assets/icons/se.svg",
                 ),
               ],
