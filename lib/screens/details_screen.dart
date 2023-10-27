@@ -45,7 +45,7 @@ class DetailsScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     const Text(
-                      "Finance",
+                      "Patents and Trademarks",
                       style:
                           TextStyle(fontWeight: FontWeight.w900, fontSize: 20),
                     ),
@@ -100,7 +100,7 @@ class DetailsScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 20),
                     const Text(
-                      "Finance",
+                      "Patents and Trademarks",
                       style: TextStyle(
                         fontWeight: FontWeight.w900,
                       ),
