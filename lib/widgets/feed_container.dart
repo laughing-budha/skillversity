@@ -1,6 +1,6 @@
-import 'package:abibas/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
+import '../constants.dart';
 
 class FeedContainer extends StatelessWidget {
   final String image;

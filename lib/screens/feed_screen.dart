@@ -1,7 +1,7 @@
-import 'package:abibas/widgets/feed_container.dart';
-import 'package:abibas/widgets/feed_list.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
+import '../widgets/feed_container.dart';
+import '../widgets/feed_list.dart';
 
 class HomeTab extends StatelessWidget {
   const HomeTab({Key? key}) : super(key: key);

@@ -16,7 +16,7 @@ class ProgresCard extends StatelessWidget {
 
   ProgresCard(
       {Key? key,
-      this.cName = "Finance",
+      this.cName = "Patents and Trademarks",
       this.percS = "62%",
       this.perc = 62.0,
       this.level = "Beginer",
@@ -41,7 +41,7 @@ class ProgresCard extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(builder: (context) {
-                return const DetailsScreen();
+                return const DetailsScreen(title: "Patents and Trademarks");
               }),
             );
           },
@@ -83,7 +83,7 @@ class ProgresCard extends StatelessWidget {
                         // leading:
                         title: Text(
                           cName,
-                          style: TextStyle(fontWeight: FontWeight.bold),
+                          style: const TextStyle(fontWeight: FontWeight.bold),
                         ),
                         subtitle: Text("Level: $level"),
                         trailing: (conti)

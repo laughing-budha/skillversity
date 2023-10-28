@@ -4,7 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
 class DetailsScreen extends StatelessWidget {
-  const DetailsScreen({Key? key}) : super(key: key);
+  final String title;
+  const DetailsScreen({Key? key, required this.title}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -44,10 +45,10 @@ class DetailsScreen extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
-                    const Text(
-                      "Patents and Trademarks",
-                      style:
-                          TextStyle(fontWeight: FontWeight.w900, fontSize: 20),
+                    Text(
+                      title,
+                      style: const TextStyle(
+                          fontWeight: FontWeight.w900, fontSize: 20),
                     ),
                     const SizedBox(height: 15),
                     const Text(

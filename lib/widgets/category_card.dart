@@ -28,7 +28,7 @@ class CategoryCard extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(builder: (context) {
-                return const DetailsScreen();
+                return  DetailsScreen(title: title,);
               }),
             );
           },
