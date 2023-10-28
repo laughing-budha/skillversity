@@ -16,5 +16,6 @@ final List feednames = [
 
 final List authornames = [
   "CHRIS STOKEL-WALKER   ·  10 min read",
+  "SHASHANK TRIPATHI   ·  7 min read",
   "MLK RAHUL   ·  7 min read",
 ];
