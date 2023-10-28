@@ -1,7 +1,7 @@
-import 'package:abibas/constants.dart';
-import 'package:abibas/widgets/category_card.dart';
-import 'package:abibas/widgets/progres_card.dart';
-import 'package:abibas/widgets/text_button.dart';
+import 'package:skillversity/constants.dart';
+import 'package:skillversity/widgets/category_card.dart';
+import 'package:skillversity/widgets/progres_card.dart';
+import 'package:skillversity/widgets/text_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 

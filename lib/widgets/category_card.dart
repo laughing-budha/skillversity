@@ -1,5 +1,5 @@
-import 'package:abibas/constants.dart';
-import 'package:abibas/screens/details_screen.dart';
+import 'package:skillversity/constants.dart';
+import 'package:skillversity/screens/details_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 

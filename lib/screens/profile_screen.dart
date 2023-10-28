@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:abibas/widgets/progres_card.dart';
+import 'package:skillversity/widgets/progres_card.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({Key? key}) : super(key: key);
