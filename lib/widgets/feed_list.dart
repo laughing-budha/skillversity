@@ -9,9 +9,9 @@ final List titlenames = [
   "Intermediary Liability in Copyright claim over User-Generated Content"
 ];
 final List feednames = [
-  "Exploring the innovative concept of dynamic injunctions in copyright protection, assessing their effectiveness in adapting to the rapidly evolving digital landscape, and how they empower rights holders to combat online infringement in real-time.",
+  "Assessing their effectiveness in adapting to the rapidly evolving digital landscape, and how they empower rights holders to combat online infringement in real-time.",
   "It delves into the legal intricacies and challenges surrounding copyright in India concerning AI-generated content, shedding light on the complexities of ownership, licensing, and protection in this emerging technological landscape",
-  "investigating the legal implications of intermediary liability in the context of user-generated content and copyright claims, exploring the responsibilities and potential defenses of online platforms when faced with allegations of copyright infringement by their users."
+  "Exploring the responsibilities and potential defenses of online platforms when faced with allegations of copyright infringement by their users."
 ];
 
 final List authornames = [
