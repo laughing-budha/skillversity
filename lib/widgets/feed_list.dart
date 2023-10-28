@@ -1,5 +1,5 @@
 final List imagenames = [
-  "assets/images/feed.png",
+  "assets/images/ai.jpeg",
   "assets/images/abc.jpg",
 ];
 
