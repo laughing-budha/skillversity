@@ -31,21 +31,24 @@ class HomeTab extends StatelessWidget {
                 title: titlenames[0],
                 feed: feednames[0],
                 author: authornames[0],
-                link: "https://www.wired.com/story/evs-us-investment",
+                link:
+                    "https://csipr.nliu.ac.in/copyright/unleashing-the-copyright-protection-jedi-evaluating-the-effectiveness-of-dynamic-injunctions/",
               ),
               FeedContainer(
                 image: imagenames[1],
                 title: titlenames[1],
                 feed: feednames[1],
                 author: authornames[01],
-                link: "https://www.wired.com/gallery/best-android-phones",
+                link:
+                    "https://csipr.nliu.ac.in/miscellaneous/navigating-indian-copyright-framework-in-the-age-of-ai-generated-works/",
               ),
               FeedContainer(
                 image: imagenames[0],
                 title: titlenames[0],
                 feed: feednames[0],
                 author: authornames[0],
-                link: "https://www.wired.com/story/evs-us-investment",
+                link:
+                    "https://csipr.nliu.ac.in/copyright/intermediary-liability-in-copyright-claim-over-user-generated-content/",
               ),
               FeedContainer(
                 image: imagenames[1],
