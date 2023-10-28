@@ -1,6 +1,6 @@
 final List imagenames = [
   "assets/images/ai.jpeg",
-  "assets/images/abc.jpg",
+  "assets/images/copy.png",
 ];
 
 final List titlenames = [
