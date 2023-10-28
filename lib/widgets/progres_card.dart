@@ -1,12 +1,9 @@
-// ignore_for_file: must_be_immutable
-
-import 'dart:ffi';
-
 import 'package:abibas/constants.dart';
 import 'package:abibas/screens/details_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 
+// ignore: must_be_immutable
 class ProgresCard extends StatelessWidget {
   String cName;
   String percS;
